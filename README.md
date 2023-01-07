@@ -2,8 +2,7 @@
 
 <p>Bienvenue sur ma page GitHub. Vous trouverez ici mes projets personnels et mes projets scolaires.</p>
 
-<details>
-  <summary><b>👨‍💻 À propos de moi</b></summary><br>
+<b>👨‍💻 À propos de moi</b></summary><br>
 
 <p>
 Je suis étudiant en informatique à l'Université de Technologie de Compiègne, en 3ᵉ année.
@@ -13,8 +12,7 @@ Je cherche actuellement un contrat d’alternance pour 3 ans à partir de févri
 </details>
 
 
-<details>
-  <summary><b>🛠️ Langages et outils</b></summary><br>
+<b>🛠️ Langages et outils</b></summary><br>
 
 
 <p>Voici en quelques images une liste d'outils que j'utilise (survolez avec la souris pour voir le nom).</p>
