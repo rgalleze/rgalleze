@@ -7,7 +7,6 @@
 
 <p>
 Je suis étudiant en informatique à l'Université de Technologie de Compiègne, en 3ᵉ année.
-Je suis passionné par l'informatique .
 Je cherche actuellement un contrat d’alternance pour 3 ans à partir de février 2023 dans les secteurs professionnels de la Data Science, du Génie logiciel, de la Cybersécurité, ou éventuellement des Systèmes Embarqués.
 </p>
 
